@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blitzenator
-- 👀 I’m interested in {insert your intreset}
-- 🌱 I’m currently learning {insert leraning}
-- 💞️ I’m looking to collaborate on {insert collabartion}
-- 📫 How to reach me 
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Face recognition
+- 📫 How to reach me allenksajan@gmail.com
 
 <!---
 Blitzenator/Blitzenator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
