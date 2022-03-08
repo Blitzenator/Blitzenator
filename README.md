@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Blitzenator
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Face recognition
 - 📫 How to reach me allenksajan@gmail.com
 
 <!---
